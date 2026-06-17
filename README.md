@@ -1,4 +1,4 @@
-# SecurePass
+# SecurePass-main
 
 MVP frontend de una app generadora de contrasenas creada con React, Vite,
 Tailwind CSS, componentes shadcn/ui, lucide-react y sonner.
